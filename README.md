@@ -4,8 +4,16 @@
 
 ## 首页（效果图）
 
-## 分类页（效果图）
+![image](https://github.com/Lilinyo/mi-app/blob/master/%E9%A6%96%E9%A1%B5.png?raw=true)
 
-## 购物车页（效果图）
+## 分类（效果图）
+
+![image](https://github.com/Lilinyo/mi-app/blob/master/%E5%88%86%E7%B1%BB.png?raw=true)
+
+## 购物车（效果图）
+
+![image](https://github.com/Lilinyo/mi-app/blob/master/%E8%B4%AD%E7%89%A9%E8%BD%A6.png?raw=true)
 
 ## 我的（效果图）
+
+![image](https://github.com/Lilinyo/mi-app/blob/master/%E6%88%91%E7%9A%84.png?raw=true)
